@@ -1,0 +1,27 @@
+*{
+font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #c5e6c2, #8ed096);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+button{
+  margin-top: 25px;
+  width: 100%;
+  padding: 12px;
+  background-color: #c5e6c2;
+  border: 2px solid #000;
+  border-radius: 30px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}

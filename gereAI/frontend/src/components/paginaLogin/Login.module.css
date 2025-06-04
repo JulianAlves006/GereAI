@@ -1,0 +1,51 @@
+.container {
+  text-align: center;
+}
+
+.heading {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.login_box {
+  background-color: white;
+  border-radius: 30px;
+  padding: 40px 50px;
+  width: 300px;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.label {
+  display: block;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.button:hover {
+  background-color: #8ed096;
+}
+
+.cadastro {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.cadastro a {
+  color: #00aaff;
+  text-decoration: none;
+}
+
+.cadastro a:hover {
+  text-decoration: underline;
+}
